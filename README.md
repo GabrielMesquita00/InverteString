@@ -7,8 +7,7 @@ b) Evite usar funções prontas, como, por exemplo, reverse;
 
 ----------------
 
-internal class Program
-{
+
     private static void Main(string[] args)
     {
         Console.WriteLine("Digite uma frase ou palavra: ");
@@ -34,4 +33,4 @@ internal class Program
         }
         return invertida;
     }
-}
+
